@@ -1,10 +1,10 @@
 Curated collection of tiny C compilers, all written in C:
 
-- MarcFeeleyTinyc -- 284 SLOC
+- MarcFeeleyTinyc -- ( 284 SLOC )
    - lex -> parse to ast -> compile ast to bytecode -> execute on VM
-- rswier/c4 -- 499 SLOC
+- rswier/c4 -- ( 499 SLOC )
    - Can bootstrap compile itself.
-- jserv/amacc -- 2180 SLOC
+- jserv/amacc -- ( 2180 SLOC )
    - Generates and executes ARM assembly by JIT compile or creating ELF executable. Can bootstrap compile itself.
 
 - 👀 I’m interested in High Peformance Computing.  I sat on several physics application teams in my 20 year career and I'm an expert at parallel efficiency. (See https://docs.google.com/viewer?a=v&pid=sites&srcid=bGJsLmdvdnxwYWRhbC13b3Jrc2hvcHxneDo2NWNiM2Y2MDg5ZTZiZTcy )
