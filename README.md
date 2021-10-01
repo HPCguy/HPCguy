@@ -1,9 +1,9 @@
-Curated collection of tiny C compilers:
+Curated collection of tiny C compilers, all written in C:
 
 - MarcFeeleyTinyc -- 284 SLOC
    - lex -> parse to ast -> compile ast to bytecode -> execute on VM
 - rswier/c4 -- 499 SLOC
-   - Written in C. Can bootstrap compile itself.
+   - Can bootstrap compile itself.
 - jserv/amacc -- 2180 SLOC
    - Generates and executes ARM assembly by JIT compile or creating ELF executable. Can bootstrap compile itself.
 
