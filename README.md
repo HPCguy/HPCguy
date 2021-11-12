@@ -3,7 +3,7 @@ Curated collection of tiny C compilers, all written in C:
 - MarcFeeleyTinyc -- ( 284 SLOC )
    - lex -> parse to ast -> compile ast to bytecode -> execute on VM
 - rswier/c4 -- ( 499 SLOC )
-   - Can compile itself.
+   - Can interpret itself.
 - jserv/amacc -- ( 2180 SLOC )
    - Generates and executes ARM assembly by JIT compile or creating ELF executable. Can compile itself.
 
