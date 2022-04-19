@@ -4,6 +4,8 @@ Curated collection of tiny C compilers, all written in C:
    - lex -> parse to ast -> compile ast to bytecode -> execute on VM
 - rswier/c4 -- ( 499 SLOC )
    - Can interpret itself.
+- HPCguy/Squint -- (2600 SLOC compiler, 1800 SLOC optimizer)
+   - JIT + ELF + shared object optimizer. Near gcc -O1 performance, and surprisingly close to -O3 for some problems. Barely even started optimizing, so this could get interesting. 
 - jserv/amacc -- ( 2180 SLOC )
    - Generates and executes ARM assembly by JIT compile or creating ELF executable. Can compile itself.
 
