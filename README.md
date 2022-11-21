@@ -8,7 +8,7 @@ Curated collection of tiny C compilers, all written in C:
    - Github won't let me fork this repo since its derived from c4, but it is a tiny x86 JIT compiler
 - jserv/amacc -- ( 2180 SLOC )
    - Generates and executes ARM assembly by JIT compile or creating ELF executable. Can compile itself. This is the base compiler forked for Squint.
-- HPCguy/Squint -- (2900 SLOC compiler, 2900 SLOC optimizer)
+- HPCguy/Squint -- (3250 SLOC compiler, 3750 SLOC optimizer)
    - JIT + ELF + shared object optimizer. Near gcc -O1 performance, and surprisingly close to -O3 for some problems. Barely even started optimizing, so this could get interesting. 
 
 - 👀 I’m interested in High Peformance Computing.  I sat on several physics application teams in my 20 year career and I'm an expert at parallel efficiency. (See https://docs.google.com/viewer?a=v&pid=sites&srcid=bGJsLmdvdnxwYWRhbC13b3Jrc2hvcHxneDo2NWNiM2Y2MDg5ZTZiZTcy )
