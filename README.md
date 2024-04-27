@@ -11,10 +11,10 @@ Curated collection of tiny C compilers, all written in C:
 - HPCguy/Squint -- (3250 SLOC compiler, 3750 SLOC optimizer)
    - JIT + ELF + shared object optimizer. Near gcc -O1 performance, and surprisingly close to -O3 for some problems. Barely even started optimizing, so this could get interesting. 
 
-A python to Linux x86 compiler (that can call clib dunctions), used as an example, not to support all of puthon:
+A Python to Linux x86 compiler (that can call clib functions), used as an example, not to support all of Python:
 
 - HPCguy/pyast64
-   - forked from BenHoyt/pyast64 and extended
+   - forked from BenHoyt/pyast64 and extended for C language support.
 
 General:
 
