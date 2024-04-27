@@ -6,7 +6,7 @@ Curated collection of tiny C compilers, all written in C:
    - Can interpret itself.
 - EarlGray/c4 -- (550) SLOC
    - Github won't let me fork this repo since its derived from c4, but it is a tiny x86 JIT compiler
-- jserv/amacc -- ( 2180 SLOC )
+- jserv/amacc -- ( 2366 SLOC )
    - Generates and executes ARM assembly by JIT compile or creating ELF executable. Can compile itself. This is the base compiler forked for Squint.
 - HPCguy/Squint -- (3250 SLOC compiler, 3750 SLOC optimizer)
    - JIT + ELF + shared object optimizer. Near gcc -O1 performance, and surprisingly close to -O3 for some problems. Barely even started optimizing, so this could get interesting. 
